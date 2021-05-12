@@ -8,6 +8,6 @@ title: How to create a minecraft mod
 ```java
 import system.io
 
-myvariable = 3
+myvariable = f
 
 ```
