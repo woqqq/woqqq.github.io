@@ -12,4 +12,4 @@ myvariable = f
 
 ```
 
-[alternativtext für mein Bild]()
+![alternativtext für mein Bild](Dababy_BabyOnBaby.jpg)
